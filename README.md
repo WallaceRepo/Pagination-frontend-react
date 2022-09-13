@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# My Pagination frontend function created with React and ReactBootstrap styling
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+JSONplaceholder.com was used to retrieve 100 posts to show pagination.
 
 ## Available Scripts
 
