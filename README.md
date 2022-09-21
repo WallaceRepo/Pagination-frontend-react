@@ -1,4 +1,4 @@
-# My Pagination frontend function created with React and ReactBootstrap styling
+## Pagination frontend function created with React and ReactBootstrap styling
 
 JSONplaceholder.com was used to retrieve 100 posts to show pagination.
 
